@@ -1,0 +1,12 @@
+SolarClean AI 2.0 — internetga chiqarish
+
+1) https://github.com saytiga kiring va akkauntingizga kiring.
+2) + -> New repository -> Repository name: solarclean-ai -> Public (faqat kod va simulyatsiya bo'lsa) -> Create repository.
+3) Add file -> Upload files -> SolarClean_AI_Cloud_Ready papkasidagi app.py, solarclean.py, intelligence.py, sample_data.csv, requirements.txt, README.md, .gitignore, .streamlit/config.toml va tests/test_intelligence.py fayllarini yuklang. Yashirin papka ko'rinmasa, .streamlit/config.toml faylini GitHub interfeysi orqali Create new file bilan yarating.
+4) Commit changes ni bosing va GitHub bosh sahifasida app.py fayli borligini tekshiring.
+5) https://share.streamlit.io -> Sign in with GitHub -> Create app -> Yup, I have an app.
+6) Repository: username/solarclean-ai; Branch: main; Main file path: app.py.
+7) Deploy -> sizga streamlit.app domenida link beriladi.
+8) Mobil va kompyuterda tekshiring. Xato chiqsa Manage app -> Logs dagi xato matnini oling.
+
+Eslatma: Bu ilmiy prototip; pilot validatsiya yoki sertifikat o'rnini bosmaydi.
